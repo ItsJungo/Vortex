@@ -1,0 +1,18 @@
+scoreboard:
+  waiting:
+    title: "&6&lVortex"
+    lines:
+      - ""
+      - "&e&lSalle d'attente"
+      - "&fÉquipe: %team%"
+      - "&fJoueurs: &b%player_count%"
+      - "&fCarte: &dCarte"
+      - ""
+      - "&6play.evenus.fr"
+  ingame:
+    title: "&6&lVortex"
+    lines:
+      - ""
+      - "&fJoueurs restants: &e%player_count%"
+      - "&fTemps restant: &a%game_time%"
+      - "&fÉquipe : %team%"

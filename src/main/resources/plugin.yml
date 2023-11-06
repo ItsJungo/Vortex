@@ -1,0 +1,10 @@
+name: Vortex
+version: 1.0
+main: me.jungo.vortex.Main
+description: Un plugin mini-jeux Vortex pour Minecraft
+api-version: 1.20
+commands:
+  vortex:
+    description: Commande de base pour le mini-jeu Vortex
+    usage: /<command>
+    aliases: [vx]
